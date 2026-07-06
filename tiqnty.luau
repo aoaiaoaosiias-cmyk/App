@@ -1,4 +1,3 @@
-
 -- Discord: tiqnty | Roblox: Venttex30
 
 local RunService = game:GetService("RunService")
